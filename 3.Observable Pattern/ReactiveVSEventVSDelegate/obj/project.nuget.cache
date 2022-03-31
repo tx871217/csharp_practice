@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mwvo5PQXNIHGGHPCSaSLpmdzOWfhYNYU7DEy5DUXLzaGOMfsEPpcNQ38Nex92N5MdfcMavgzDC231H5xcmebqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\git\\csharpcourse\\C# Course\\3.Observable Pattern\\ReactiveVSEventVSDelegate\\ReactiveVSEventVSDelegate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.reactive.linq\\5.0.0\\system.reactive.linq.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
